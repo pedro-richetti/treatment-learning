@@ -1,0 +1,16 @@
+{
+	"boa_discovery" : true,
+	"bigram_discovery" : true,
+	"trigram_discovery" : true,
+	"maximal_repeat_sequence_discovery" : true,
+	"maximal_repeat_alphabet_discovery" : true,
+	"declare_discovery" : true,
+	"verbose" : false,
+	"user_role_with_event" : false,
+	"path" : "C:/Users/username/event_logs/datasetname",
+	"event_log_filename" : "data.csv",
+	"instance_attributes_filename" : "indicator.csv",		
+	"classes" : ["yes", "no"],
+	"tar_rounds" : 1,
+	"thread_pool_size" : 4
+}
