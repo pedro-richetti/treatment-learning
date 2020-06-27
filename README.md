@@ -1,5 +1,5 @@
 # A Treatment Learning setup for Business Process Deviance Mining
-This repository contains a Python code developed to run an existing treatment learning tool in the context of Business Process Deviance Mining. We also provide data used in experiments with four real-life publicly available datasets to demonstrate how treatment learning performs in business process scenarios.
+This repository contains a Python code developed to run an existing treatment learning tool in the context of Business Process Deviance Mining. We also provide data used in experiments with three real-life publicly available datasets to demonstrate how treatment learning performs in business process scenarios.
 This code is initially design to run in Windows OS, but with minor changes it can run in other OS as well.
 
 ## Requeriments
@@ -10,10 +10,10 @@ This code is initially design to run in Windows OS, but with minor changes it ca
 
 ## Installation
 1. Create a new virtual environment in your local computer, called "logConverter" (the project folder).
-2. Clone or Download this repository to your local computer and copy the files to project's folder.
-3. Activate the project, by running the script activate.bat located in "Scripts" folder.
+2. Clone or Download this repository to your local computer and copy all files to project's folder.
+3. Activate the project by running activate.bat script, located in "Scripts" folder.
 4. Load dependency modules by running the command in shell: "pip install -r requirements.txt".
-5. Place a copy of tar3.exe in repository's root folder. TAR3 can be downloaded from [Hu's website].(http://www.ece.ubc.ca/~yingh/academic/dispatchTAR3.zip). After decompressing the zip file, you will find tar3.exe is in the bin folder.
+5. Place a copy of tar3.exe in repository's root folder. TAR3 can be downloaded from [Hu's website].(http://www.ece.ubc.ca/~yingh/academic/dispatchTAR3.zip). After decompressing the zip file, you will find tar3.exe in the bin folder.
 
 ## Configuration
 
