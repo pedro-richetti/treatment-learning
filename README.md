@@ -12,7 +12,7 @@ This code is initially design to run in Windows OS, but with minor changes it ca
 1. Create a new virtual environment in your local computer, called "logConverter" (the project folder).
 2. Clone or Download this repository to your local computer and copy the files to project's folder.
 3. Activate the project, by running the script activate.bat located in "Scripts" folder.
-4. load dependency modules by running the command in shell: "pip install -r requirements.txt".
+4. Load dependency modules by running the command in shell: "pip install -r requirements.txt".
 5. Place a copy of tar3.exe in repository's root folder. TAR3 can be downloaded from [Hu's website].(http://www.ece.ubc.ca/~yingh/academic/dispatchTAR3.zip). After decompressing the zip file, you will find tar3.exe is in the bin folder.
 
 ## Configuration
